@@ -43,3 +43,6 @@ You did it! If you go back to the home menu. You will see "the Homebrew Channel"
 
 # Thank you for using Homebrew Haste Method
 Please email marrtyfdgu64@gmail.com if there is a problem with this method.
+
+# Edit
+This does not work. Use any other method. Email the mail at the top if you know a fix for this method.
