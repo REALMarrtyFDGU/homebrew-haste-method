@@ -14,8 +14,8 @@ ___
 Get an SD Card and put it into the computer
 
 ## Step 2
-Download this file and unzip it.
-[wii.zip](https://github.com/user-attachments/files/17269501/wii.zip)
+Download this file and unzip it
+[wii.zip](https://github.com/user-attachments/files/17269501/wii.zip). You can also download the zip from the code tab in github (If you do this Step 4 will be kind of different).
 
 ## Step 3
 On the root of the folder create a file called "private". All lowercase, no numbers.
